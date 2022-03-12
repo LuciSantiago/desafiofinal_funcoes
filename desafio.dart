@@ -28,7 +28,7 @@ void calcularQtdSexo(List lista) {
 
 void main() {
   //! Detalhe sobre a String
-  //! A String é composta por 3 campos (Nome|Idade|Sexo)
+  //! A String é composta por 3 campos ( Nome | Idade | Sexo )
   final pessoas = [
     'Rodrigo Rahman|35|Masculino',
     'Jose|56|Masculino',
